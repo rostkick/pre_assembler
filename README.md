@@ -11,7 +11,7 @@ Visualize de bruijn assemble subgraph.
 
 ### example1:
 ```
-python3 assembler.py -i hw3_dataset11.fasta
+python3 assembler.py -i hw3_dataset11.fasta -t not
 ```
 ### example2:
 ```
