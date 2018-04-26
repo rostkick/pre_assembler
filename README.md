@@ -17,3 +17,6 @@ python3 assembler.py -i hw3_dataset11.fasta
 ```
 python3 assembler.py -i hw3_dataset.fasta -k 55 -t not -s bw
 ```
+
+## output graph example
+![](https://github.com/rostkick/pre_assembler/blob/master/Digraph11.gv.png)
